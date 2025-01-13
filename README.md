@@ -4,8 +4,6 @@
 
 <p align="center">A passionate learner of web and mobile apps development 🚀</p>
 
-<h2 align="center">What I'm up to 🎯</h2>
-
 - 💻 Currently developing a framework with my friends
 - 📚 Learning and exploring framework development
 - 💬 Ask me about JavaScript, React Native, React, PostgreSQL
